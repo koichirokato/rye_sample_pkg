@@ -22,8 +22,8 @@ echo 'source "$HOME/.rye/env"' >> ~/.bashrc
 
 ```bash
 cd ~/ros2_ws/src
-git clone 
-cd 
+git clone https://github.com/koichirokato/rye_sample_pkg
+cd rye_sample_pkg
 rye sync
 ```
 
