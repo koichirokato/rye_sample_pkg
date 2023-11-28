@@ -30,7 +30,7 @@ rye sync
 ## Build
 
 ```bash
-cd ..
+cd ~/ros2_ws/
 colcon build --packages-select rye_sample_pkg --symlink-install
 source install/setup.bash
 ```
