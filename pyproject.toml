@@ -6,7 +6,6 @@ authors = [
     { name = "koichirokato", email = "k.koichiro0222@gmail.com" }
 ]
 dependencies = [
-    "colcon-common-extensions>=0.3.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
